@@ -1,0 +1,79 @@
+[
+    {
+        "S_id": "77",
+        "Uuid": "11DF0726115310500000000a005b007c",
+        "name": "LB10501",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:C5",
+        "Longitude": "114.1378568",
+        "Latitude": "22.283351",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "78",
+        "Uuid": "11DF0726115310500000000a001b013c",
+        "name": "LB10502",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:C6",
+        "Longitude": "114.1378247",
+        "Latitude": "22.28329435",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "79",
+        "Uuid": "11DF0726115310500000000a005b013c",
+        "name": "LB10503",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:C7",
+        "Longitude": "114.137859",
+        "Latitude": "22.28329435",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "80",
+        "Uuid": "11DF0726115310500000000b006b013c",
+        "name": "LB10504",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:C8",
+        "Longitude": "114.137757",
+        "Latitude": "22.28329435",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "81",
+        "Uuid": "11DF0726115310500000000b002b017c",
+        "name": "LB10505",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:FB",
+        "Longitude": "114.1377924",
+        "Latitude": "22.28325822",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "82",
+        "Uuid": "11DF0726115310500000000a001b017c",
+        "name": "LB10506",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:FC",
+        "Longitude": "114.1378249",
+        "Latitude": "22.28325828",
+        "B_name": "Library",
+        "level_code": "205"
+    },
+    {
+        "S_id": "83",
+        "Uuid": "11DF0726115310500000000a002b021c",
+        "name": "LB10507",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:FD",
+        "Longitude": "114.1378277",
+        "Latitude": "22.28322792",
+        "B_name": "Library",
+        "level_code": "205"
+    }
+]

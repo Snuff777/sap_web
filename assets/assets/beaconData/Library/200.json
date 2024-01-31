@@ -1,0 +1,167 @@
+[
+    {
+        "S_id": "1",
+        "Uuid": "11DF0726115310000000000a012b001c",
+        "name": "LB10001",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:EA",
+        "Longitude": "114.1379326",
+        "Latitude": "22.2834089",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "2",
+        "Uuid": "11DF0726115310000000000a007b001c",
+        "name": "LB10002",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E9",
+        "Longitude": "114.1378822",
+        "Latitude": "22.2834083",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "3",
+        "Uuid": "11DF0726115310000000000b005b001c",
+        "name": "LB10003",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E3",
+        "Longitude": "114.1377663",
+        "Latitude": "22.28340804",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "4",
+        "Uuid": "11DF0726115310000000000b005a007c",
+        "name": "LB10004",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E2",
+        "Longitude": "114.1377662",
+        "Latitude": "22.28347928",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "5",
+        "Uuid": "11DF0726115310000000000b005b006c",
+        "name": "LB10005",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:EB",
+        "Longitude": "114.1377655",
+        "Latitude": "22.28335563",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "6",
+        "Uuid": "11DF0726115310000000000b012b007c",
+        "name": "LB10006",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E5",
+        "Longitude": "114.1376904",
+        "Latitude": "22.28335456",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "7",
+        "Uuid": "11DF0726115310000000000b013a007c",
+        "name": "LB10007",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E6",
+        "Longitude": "114.1376895",
+        "Latitude": "22.28347928",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "8",
+        "Uuid": "11DF0726115310000000000b018a007c",
+        "name": "LB10008",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E7",
+        "Longitude": "114.1376364",
+        "Latitude": "22.28347902",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "9",
+        "Uuid": "11DF0726115310000000000b018b001c",
+        "name": "LB10009",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E4",
+        "Longitude": "114.137636",
+        "Latitude": "22.28340032",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "10",
+        "Uuid": "11DF0726115310000000000b018b010c",
+        "name": "LB10010",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:E8",
+        "Longitude": "114.1376356",
+        "Latitude": "22.28332166",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "11",
+        "Uuid": "11DF0726115310000000000a009b007c",
+        "name": "LB10011",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:F0",
+        "Longitude": "114.1378941",
+        "Latitude": "22.28335245",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "12",
+        "Uuid": "11DF0726115310000000000a005b007c",
+        "name": "LB10012",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:F5",
+        "Longitude": "114.1378568",
+        "Latitude": "22.283351",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "13",
+        "Uuid": "11DF0726115310000000000a009b009c",
+        "name": "LB10013",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:EE",
+        "Longitude": "114.137901",
+        "Latitude": "22.28333351",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "14",
+        "Uuid": "11DF070000001000000000007600472b",
+        "name": "LB10014",
+        "Major": "9999",
+        "Mac": "C3:00:00:14:C0:F4",
+        "Longitude": "114.1379324",
+        "Latitude": "22.28343544",
+        "B_name": "Library",
+        "level_code": "200"
+    },
+    {
+        "S_id": "15",
+        "Uuid": "11DF0726115310000000000a010b006c",
+        "name": "LB10015",
+        "Major": "8080",
+        "Mac": "C3:00:00:14:C0:EC",
+        "Longitude": "114.1379032",
+        "Latitude": "22.28336062",
+        "B_name": "Library",
+        "level_code": "200"
+    }
+]

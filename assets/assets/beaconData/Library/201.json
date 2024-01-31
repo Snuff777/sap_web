@@ -1,0 +1,145 @@
+[
+    {
+        "S_id": "16",
+        "Uuid": "11DF0726115310100000000a009b007c",
+        "name": "LB10101",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:ED",
+        "Longitude": "114.1378941",
+        "Latitude": "22.28335245",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "17",
+        "Uuid": "11DF0726115310100000000a005b007c",
+        "name": "LB10102",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:F3",
+        "Longitude": "114.1378568",
+        "Latitude": "22.283351",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "18",
+        "Uuid": "11DF0726115310100000000a009b009c",
+        "name": "LB10103",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:F2",
+        "Longitude": "114.137901",
+        "Latitude": "22.28333351",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "19",
+        "Uuid": "11DF0726115310100000000a003a001c",
+        "name": "LB10104",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:EF",
+        "Longitude": "114.1378452",
+        "Latitude": "22.28342076",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "20",
+        "Uuid": "11DF0726115310100000000a004a014c",
+        "name": "LB10105",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:F1",
+        "Longitude": "114.1378457",
+        "Latitude": "22.28353697",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "21",
+        "Uuid": "11DF0726115310100000000a007a001c",
+        "name": "LB10106",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:9B",
+        "Longitude": "114.1378822",
+        "Latitude": "22.283421",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "22",
+        "Uuid": "11DF0726115310100000000a005b013c",
+        "name": "LB10107",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:96",
+        "Longitude": "114.1378608",
+        "Latitude": "22.28329498",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "23",
+        "Uuid": "11DF0726115310100000000a002b013c",
+        "name": "LB10108",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:9A",
+        "Longitude": "114.1378273",
+        "Latitude": "22.28329498",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "24",
+        "Uuid": "11DF0726115310100000000b006b013c",
+        "name": "LB10109",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:95",
+        "Longitude": "114.1377551",
+        "Latitude": "22.283295",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "25",
+        "Uuid": "11DF0726115310100000000a010b013c",
+        "name": "LB10110",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:99",
+        "Longitude": "114.1379041",
+        "Latitude": "22.28329517",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "26",
+        "Uuid": "11DF0726115310100000000a013b013c",
+        "name": "LB10111",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:94",
+        "Longitude": "114.1379421",
+        "Latitude": "22.28329533",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "27",
+        "Uuid": "11DF0726115310100000000a017b013c",
+        "name": "LB10112",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:98",
+        "Longitude": "114.1379809",
+        "Latitude": "22.2832955",
+        "B_name": "Library",
+        "level_code": "201"
+    },
+    {
+        "S_id": "28",
+        "Uuid": "11DF0726115310100000000a010a014c",
+        "name": "LB10113",
+        "Major": "7275",
+        "Mac": "C3:00:00:14:C0:93",
+        "Longitude": "114.1379058",
+        "Latitude": "22.28353722",
+        "B_name": "Library",
+        "level_code": "201"
+    }
+]

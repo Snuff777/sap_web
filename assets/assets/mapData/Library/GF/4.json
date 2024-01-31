@@ -1,0 +1,449 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13761491100001,
+          22.283347324000033
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "name" : "LS600~630 & LS800~899",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13774844500006,
+          22.283456781000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "name" : "PO CHUNG & CEO COLLECTIONS",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13765919800005,
+          22.283372056000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "name" : "BOOKS630~658.406",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13778676200002,
+          22.283369997000023
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "name" : "Leisure Reading Collection",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13774204400011,
+          22.283335621000049
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "name" : "JOSEPH NEEDHAM Room",
+        "type" : "Room",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Room",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13790326200001,
+          22.283354903000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "name" : "lift1",
+        "type" : "lift",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "lift",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13785020800003,
+          22.283348831000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "name" : "lift2",
+        "type" : "lift",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "lift",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13791614800004,
+          22.283334774000025
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "name" : "Toilet",
+        "type" : "Toilet",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Toilet",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13764828000001,
+          22.283501218000026
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "name" : "Seminar Room",
+        "type" : "Seminar Room",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "SeminarRoom",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13765869300005,
+          22.283449165000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "name" : "BOOKS600~630",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13761586300006,
+          22.283308301000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "name" : "LB001~LB999",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.13761300700003,
+          22.283451068000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "name" : "BOOKS658.406~899",
+        "type" : "Books",
+        "level_code" : "200",
+        "address" : "Library",
+        "poi_id" : null,
+        "parent_type" : null,
+        "level_name" : "G/F",
+        "update_time" : null,
+        "province_code" : null,
+        "province_name" : null,
+        "city_code" : null,
+        "ad_code" : null,
+        "ad_name" : null,
+        "icon_id" : "Books",
+        "icon_rotation_alignment" : null,
+        "alignment" : null,
+        "postcode" : null,
+        "show_lable" : null,
+        "label_text" : null,
+        "label_fontsize" : null,
+        "poi_type" : null,
+        "show_label" : null,
+        "tel" : null
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "SHAPE_Length" : 7.4737240990174417e-05,
+        "SHAPE_Area" : 3.2023972615333962e-10,
+        "type" : "lift",
+        "color" : "#96F0DE"
+      }
+    }
+  ]
+}
